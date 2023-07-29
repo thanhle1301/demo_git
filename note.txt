@@ -4,3 +4,7 @@
 + chọn
     B1 git add -A
     B2 git status : kiểm tra
+    B3 git commit -m "noi dung" :
+    git log : kiểm tra sữa gần nhất lúc nào
++ Xác nhận
++ Đẩy
