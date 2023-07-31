@@ -10,3 +10,8 @@
     git commit -m "noi dung commit"
 + Đẩy: lần đầu ~ git push -u origin master
     lần 2 trờ lên ~ git push 
+
+
+*Branch
+- Tạo nhánh: git checkout -b login.
+- Chuyển nhánh: git checkout master.
