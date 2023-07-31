@@ -7,4 +7,5 @@
     B3 git commit -m "noi dung" :
     git log : kiểm tra sữa gần nhất lúc nào
 + Xác nhận
+    git commit -m "noi dung commit"
 + Đẩy
