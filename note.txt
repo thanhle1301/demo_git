@@ -8,4 +8,5 @@
     git log : kiểm tra sữa gần nhất lúc nào
 + Xác nhận
     git commit -m "noi dung commit"
-+ Đẩy
++ Đẩy: lần đầu ~ git push -u origin master
+    lần 2 trờ lên ~ git push 
