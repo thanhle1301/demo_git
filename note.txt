@@ -13,7 +13,7 @@
 
 
 *Branch : tạo nhánh
-- Tạo nhánh: git checkout -b login.
-- Chuyển nhánh: git checkout master.
+- Tạo nhánh: git checkout -b login
+- Chuyển nhánh: git checkout master
 
 
